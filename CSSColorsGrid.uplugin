@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "CSSColorsGrid",
+	"Description": "CSSColors Grid is an Unreal Engine Plugin with a set of materials designed to assist in level prototyping and greyboxing, with Material Instances generated from CSS Color names (140 of them)",
+	"Category": "Level Design",
+	"CreatedBy": "Mickael Daniel <mklabs>",
+	"CreatedByURL": "https://mklabs.github.io/",
+	"DocsURL": "https://github.com/mklabs/ue4-csscolors-grid",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/mklabs/ue4-csscolors-grid/issues",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": true
+}
