@@ -6,7 +6,7 @@ CSSColors Grid is an Unreal Engine Plugin with a set of materials designed to as
 
 ## Installation
 
-Download or clone the repository and put it in your Engine/Plugins directory (to make it available for all projects) or in your Project's Plugins directory (for a specific project).
+[Download the latest release](https://github.com/mklabs/ue4-CSSColorsGrid/releases) or clone the repository and put it in your Engine/Plugins directory (to make it available for all projects) or in your Project's Plugins directory (for a specific project).
 
 Once installed, enable the plugin in the Editor Plugins Browser tab (Edit > Plugins > Level Design)
 
