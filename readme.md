@@ -24,7 +24,7 @@ CSSColors: Full list of css colors as Material Instances
 
 ## Credits
 
-Materials are implement following the technique demonstrated by [Tyler McCombs](https://youtu.be/KSXshiA59OA), thank you Tyler for such a good tutorial!
+Materials are implement following the technique demonstrated by [Tyler McCombs](https://www.tylermccombs.com/) in this [video](https://youtu.be/KSXshiA59OA), thank you Tyler for such a good tutorial!
 
 The list for the CSS Color names are coming from [bahamas10's css-color-names repository](https://github.com/bahamas10/css-color-names).
 
